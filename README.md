@@ -1,5 +1,7 @@
 # XpoStream
 A website for streaming exhibitions and other events. 
-This projet uses MYSQL for database
+This project uses MYSQL for database
+<p>
 Frontend: HTML, CSS, Bootstrap
 Backend: php
+</p>
